@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj": {}
+    "D:\\A- ECE\\ING 4\\Semestre 2\\Intelligence Artificielle\\Projet 2 -\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj": {
+    "D:\\A- ECE\\ING 4\\Semestre 2\\Intelligence Artificielle\\Projet 2 -\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj",
+        "projectUniqueName": "D:\\A- ECE\\ING 4\\Semestre 2\\Intelligence Artificielle\\Projet 2 -\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj",
         "projectName": "Projet IA 2",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\obj\\",
+        "projectPath": "D:\\A- ECE\\ING 4\\Semestre 2\\Intelligence Artificielle\\Projet 2 -\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\Projet IA 2.csproj",
+        "packagesPath": "C:\\Users\\const\\.nuget\\packages\\",
+        "outputPath": "D:\\A- ECE\\ING 4\\Semestre 2\\Intelligence Artificielle\\Projet 2 -\\ECE-2023-Ing4-Finance-IA2-Gr06\\Projet IA 2\\Projet IA 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\const\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
