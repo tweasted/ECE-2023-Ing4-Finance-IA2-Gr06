@@ -1,0 +1,29 @@
+digraph Model
+{
+    node [ fontsize=8, style="filled, rounded", fillcolor=transparent ];
+
+    node0 [ label="7" fontsize="9" fontcolor="#000000" shape="none" ];
+    node1 [ label="DiscreteUniform" fontsize="8" fontcolor="#FFFFFF" fillcolor="#000000" shape="box" ];
+    node2 [ label="vint2" fontsize="10" fontcolor="#0000FF" shape="box" ];
+    node3 [ label="vString1" fontsize="9" fontcolor="#000000" shape="none" ];
+    node4 [ label="Substring" fontsize="8" fontcolor="#FFFFFF" fillcolor="#000000" shape="box" ];
+    node5 [ label="3" fontsize="9" fontcolor="#000000" shape="none" ];
+    node6 [ label="vString2[index0]" fontsize="10" fontcolor="#0000FF" shape="box" ];
+    node7 [ label="Equal" fontsize="8" fontcolor="#FFFFFF" fillcolor="#000000" shape="box" ];
+    node8 [ label="motif" fontsize="9" fontcolor="#000000" shape="none" ];
+    node9 [ label="vbool0[index0]" fontsize="10" fontcolor="#0000FF" shape="box" ];
+    node10 [ label="True" fontsize="9" fontcolor="#000000" shape="none" ];
+    node11 [ label="Equal" fontsize="8" fontcolor="#FFFFFF" fillcolor="#000000" shape="box" ];
+
+    node0 -> node1 [ label="size" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node1 -> node2 [ label="" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node3 -> node4 [ label="str" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node2 -> node4 [ label="start" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node5 -> node4 [ label="length" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node4 -> node6 [ label="" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node6 -> node7 [ label="str1" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node8 -> node7 [ label="str2" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node7 -> node9 [ label="" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node10 -> node11 [ label="A" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+    node9 -> node11 [ label="B" fontsize="8" fontcolor="#D3D3D3" arrowtail="none" ];
+}

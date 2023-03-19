@@ -8,4 +8,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DotNetGraph" Version="2.7.0" />
+    <PackageReference Include="LinqInfer" Version="6.0.1" />
+    <PackageReference Include="Microsoft.ML" Version="2.0.1" />
+    <PackageReference Include="Microsoft.ML.Probabilistic" Version="0.4.2301.301" />
+    <PackageReference Include="Microsoft.ML.Probabilistic.Compiler" Version="0.4.2301.301" />
+    <PackageReference Include="Microsoft.ML.Probabilistic.Compiler.Visualizers.Windows" Version="0.3.1912.403" />
+    <PackageReference Include="Microsoft.ML.Probabilistic.Learners" Version="0.4.2301.301" />
+    <PackageReference Include="Microsoft.ML.Probabilistic.Visualizers.Windows" Version="0.4.2301.301" />
+    <PackageReference Include="QuickGraph" Version="3.6.61119.7" />
+    <PackageReference Include="QuikGraph" Version="2.5.0" />
+    <PackageReference Include="QuikGraph.Graphviz" Version="2.5.0" />
+  </ItemGroup>
+
 </Project>
